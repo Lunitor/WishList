@@ -8,6 +8,5 @@ namespace WishList.Core
         public User Owner { get; set; }
         public Status Status { get; set; }
         public DateTime CreatedTimeStamp { get; set; }
-
     }
 }
